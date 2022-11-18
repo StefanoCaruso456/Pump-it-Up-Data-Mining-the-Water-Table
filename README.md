@@ -1,5 +1,5 @@
 
-![image1](./images/Kings1.jpg)
+![image1](./images/t1.jpg)
 
 # Pump-it-Up-Data-Mining-the-Water-Table
 
@@ -30,18 +30,18 @@ The third dataset would be about the condition for each well.
 We drop columns that will not likely to affect the well condition. And start to build models and keep refining models until the model shouws good recall snd score.
 
 ## Results
-![graph1](./images/Result1.jpg)
+![graph1](./images/Picture1.png)
 
-Clear linear relationship between Price and Living area.
+Accuracy for our final model 21% higher than Baseline dummy model.
 
 
-![graph2](./images/Result2.jpg)
+![graph2](./images/Picture2.png)
 
-Average grade is our baseline grade. Higher grade is associated with higher sale price. 
+According to our bar chart, the percentage of correct prediction for both functional and non-functional were both descent 
 
-![graph3](./images/Result3.png)
+![graph3](./images/Picture3.png)
 
-Average condition is our baseline grade. Higher condition is associated with higher sale price.
+GPS height, Age and dry water quantity are the most important to cause a well to be non-functional
 
 ## Limitation
 
